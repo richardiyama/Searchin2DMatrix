@@ -1,0 +1,6 @@
+c:\users\richard iyama\documents\visual studio 2017\Projects\Searchina2-DMatrix\Searchina2-DMatrix\bin\Debug\Searchina2-DMatrix.exe.config
+c:\users\richard iyama\documents\visual studio 2017\Projects\Searchina2-DMatrix\Searchina2-DMatrix\bin\Debug\Searchina2-DMatrix.exe
+c:\users\richard iyama\documents\visual studio 2017\Projects\Searchina2-DMatrix\Searchina2-DMatrix\bin\Debug\Searchina2-DMatrix.pdb
+c:\users\richard iyama\documents\visual studio 2017\Projects\Searchina2-DMatrix\Searchina2-DMatrix\obj\Debug\Searchina2-DMatrix.csprojResolveAssemblyReference.cache
+c:\users\richard iyama\documents\visual studio 2017\Projects\Searchina2-DMatrix\Searchina2-DMatrix\obj\Debug\Searchina2-DMatrix.exe
+c:\users\richard iyama\documents\visual studio 2017\Projects\Searchina2-DMatrix\Searchina2-DMatrix\obj\Debug\Searchina2-DMatrix.pdb
